@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">BluetoothMode</string>
+    <string name="a">a</string>
+    <string name="textview">TextView</string>
+
+</resources>

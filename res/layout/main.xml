@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/airplane" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@color/off_grey" -->
+    <!-- android:orientation="horizontal" -->
+    <!-- android:paddingBottom="3dp" > -->
+
+
+    <!-- <ImageButton -->
+    <!-- android:id="@+id/btnAirplane" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:background="#555" -->
+    <!-- android:clickable="true" -->
+    <!-- android:focusable="true" -->
+    <!-- android:src="@drawable/airplane" /> -->
+    <!-- </LinearLayout> -->
+
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/wifi" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@color/off_grey" -->
+    <!-- android:orientation="horizontal" -->
+    <!-- android:paddingBottom="3dp" > -->
+
+
+    <!-- <ImageButton -->
+    <!-- android:id="@+id/btnWifi" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:background="#555" -->
+    <!-- android:clickable="true" -->
+    <!-- android:focusable="true" -->
+    <!-- android:src="@drawable/wifi" /> -->
+    <!-- </LinearLayout> -->
+
+    <LinearLayout
+        android:id="@+id/bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/off_grey"
+        android:orientation="horizontal"
+        android:paddingBottom="3dp" >
+
+        <ImageButton
+            android:id="@+id/btnBluetooth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#555"
+            android:clickable="true"
+            android:focusable="true"
+            android:src="@drawable/bluetooth" />
+    </LinearLayout>
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/data" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@color/off_grey" -->
+    <!-- android:orientation="horizontal" -->
+    <!-- android:paddingBottom="3dp" > -->
+
+
+    <!-- <ImageButton -->
+    <!-- android:id="@+id/btnData" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:background="#555" -->
+    <!-- android:clickable="true" -->
+    <!-- android:focusable="true" -->
+    <!-- android:src="@drawable/data" /> -->
+    <!-- </LinearLayout> -->
+
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/hotspot" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@color/off_grey" -->
+    <!-- android:orientation="horizontal" -->
+    <!-- android:paddingBottom="3dp" > -->
+
+
+    <!-- <ImageButton -->
+    <!-- android:id="@+id/btnHotspot" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:background="#555" -->
+    <!-- android:clickable="true" -->
+    <!-- android:focusable="true" -->
+    <!-- android:src="@drawable/hotspot" /> -->
+    <!-- </LinearLayout> -->
+
+</LinearLayout>
